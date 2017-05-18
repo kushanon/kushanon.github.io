@@ -14,16 +14,16 @@
 京都大学大学院 情報学研究科 知能情報学専攻
 
 ## 職歴
-2016/7 - 2016/12
-京都大学
+2016/7 - 2016/12  
+京都大学  
 Teaching Assistant
 
 
-2016/8 - 2016/9
+2016/8 - 2016/9  
 株式会社Preferred Networks  
 Summer Internship
 
-2016/11 - 今
+2016/11 - 今  
 株式会社Preferred Networks  
 Parttime-Engineer
 
